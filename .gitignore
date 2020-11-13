@@ -1,0 +1,9 @@
+.venv
+.env
+.vscode
+*.code-workspace
+dev.env
+config.py
+__pycache__
+env.py
+.vscode/settings.json
